@@ -1,10 +1,10 @@
-# 🌐 Website Repo
+# 🌐 Website_templates
 
 ![Repo Size](https://img.shields.io/github/repo-size/Violetflame124610/websites?color=blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Violetflame124610/websites)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A collection of all my website development projects.  
+A collection of all my website development templates.  
 This repository includes frontend designs, backend applications, UI experiments, and full-stack implementations built for learning and real-world use.
 
 ---
